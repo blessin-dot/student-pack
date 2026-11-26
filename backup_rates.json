@@ -1,0 +1,28 @@
+{
+  "note": "Sample exchange rates for OFFLINE practice only. Not live data. Rates are against EUR (1 EUR = ...), like the European Central Bank publishes them.",
+  "currencies": {
+    "AUD": "Australian Dollar",
+    "CAD": "Canadian Dollar",
+    "CHF": "Swiss Franc",
+    "CNY": "Chinese Renminbi Yuan",
+    "EUR": "Euro",
+    "GBP": "British Pound",
+    "INR": "Indian Rupee",
+    "JPY": "Japanese Yen",
+    "PLN": "Polish Złoty",
+    "SEK": "Swedish Krona",
+    "USD": "United States Dollar"
+  },
+  "latest": {
+    "date": "2026-11-13",
+    "rates": {"USD": 1.0852, "GBP": 0.8683, "JPY": 165.21, "CHF": 0.9418, "CAD": 1.5124, "AUD": 1.6547, "CNY": 7.8112, "INR": 92.384, "PLN": 4.2791, "SEK": 11.4523}
+  },
+  "history": {
+    "2026-11-06": {"USD": 1.0791, "GBP": 0.8712, "JPY": 164.33, "CHF": 0.9402, "CAD": 1.5061, "AUD": 1.6489, "CNY": 7.7734, "INR": 91.912, "PLN": 4.2855, "SEK": 11.4911},
+    "2026-11-09": {"USD": 1.0813, "GBP": 0.8698, "JPY": 164.87, "CHF": 0.9411, "CAD": 1.5083, "AUD": 1.6512, "CNY": 7.7902, "INR": 92.041, "PLN": 4.282, "SEK": 11.4702},
+    "2026-11-10": {"USD": 1.0779, "GBP": 0.8725, "JPY": 164.12, "CHF": 0.9396, "CAD": 1.5047, "AUD": 1.647, "CNY": 7.7645, "INR": 91.803, "PLN": 4.2903, "SEK": 11.502},
+    "2026-11-11": {"USD": 1.0836, "GBP": 0.8671, "JPY": 165.04, "CHF": 0.9425, "CAD": 1.511, "AUD": 1.6538, "CNY": 7.803, "INR": 92.256, "PLN": 4.2768, "SEK": 11.438},
+    "2026-11-12": {"USD": 1.0845, "GBP": 0.8659, "JPY": 165.48, "CHF": 0.9431, "CAD": 1.5132, "AUD": 1.6561, "CNY": 7.8098, "INR": 92.41, "PLN": 4.2742, "SEK": 11.4295},
+    "2026-11-13": {"USD": 1.0852, "GBP": 0.8683, "JPY": 165.21, "CHF": 0.9418, "CAD": 1.5124, "AUD": 1.6547, "CNY": 7.8112, "INR": 92.384, "PLN": 4.2791, "SEK": 11.4523}
+  }
+}
