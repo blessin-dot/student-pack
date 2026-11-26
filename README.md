@@ -28,7 +28,7 @@ If you see `Python 3.10` or higher, you're set. Otherwise, download it from [pyt
 
 ### 3. Open the project
 
-1. Unzip the workshop files.
+1. Unzip the workshop files. Go to **Code  → Download Zip**
 2. In VS Code: **File → Open Folder** and choose the `student-pack` folder.
 3. Open a terminal inside VS Code: **Terminal → New Terminal**.
 
